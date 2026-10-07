@@ -1,4 +1,6 @@
 # datacamp-students-mental-health_project
+
+
 # Analyzing Students' Mental Health in SQL
 
 ## Project Overview
@@ -10,3 +12,4 @@ This project explores a dataset from a 2018 survey conducted by a Japanese inter
 
 ## Key Queries & Analysis
 The final analysis groups student mental health diagnostic scores (PHQ-9, SCS, and ASISS test instruments) against their cumulative length of stay to extract trends and baseline metrics.
+
